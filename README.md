@@ -1,4 +1,4 @@
 # Repo ini dipakai untuk menyimpan file :
-Praktikum Teknik Simulasi dan Data Mining
-Praktikum Pengolahan Citra
-Thanks
+##Praktikum Teknik Simulasi dan Data Mining
+##Praktikum Pengolahan Citra
+###Thanks
