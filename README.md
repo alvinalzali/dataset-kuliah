@@ -1,4 +1,4 @@
-# Repo ini dipakai untuk menyimpan file :
+# Repo ini dipakai untuk menyimpan dataset :
 
 Mata Kuliah :
 
