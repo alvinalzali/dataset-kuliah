@@ -9,7 +9,7 @@ Mata Kuliah :
 
 2. Teknik Simulasi dan Data Mining
    <br>Case : "Klasifikasi Citra Menggunakan Metode Hue Moments dan KNN"
-   <br>Dataset : Gambar Daun 10 Buah
+   <br>Dataset : Gambar 3 jenis daun dengan total 30 Buah
    <br>Link : https://colab.research.google.com/drive/1T3OF4nUh1KkWvQFtdYwj4DgGVVpFMqjV?usp=sharing
 
 <br>
